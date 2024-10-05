@@ -1,5 +1,6 @@
 <h2 align=center>Aligned zkQuiz NFT</h2>
-
+starts by upgrading packages 
+sudo apt-get update && sudo apt-get upgrade
 ![Img1](https://github.com/user-attachments/assets/4e323dd3-cdee-44be-b62c-f18253da6446)
 
 - Download Rust
